@@ -22,9 +22,11 @@
       <div id="site-title">
         <a href="{{ site.baseurl }}/">{{- site.title -}}</a>
       </div>
-      <div id="site-subtitle" class="font-italic">{{ site.description }}</div>
+      <!-- <div id="site-subtitle">{{ site.description }}</div> -->
     </div>
   </div>
+
+  <hr style="background-color: white;"/>
 
   <ul class="nav flex-column">
   {% assign page_urls = page.url | split: "/" %}
@@ -50,6 +52,7 @@
   {% endfor %}
 
   </ul> <!-- ul.nav.flex-column -->
+  <hr style="background-color: white;"/>
 
 </div><!-- #nav-wrapper -->
 

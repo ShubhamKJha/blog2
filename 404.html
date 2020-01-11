@@ -5,7 +5,6 @@
 # © 2017-2019 Cotes Chung
 # MIT License
 layout: page
-title: "404: Page not found"
 permalink: /404.html
 
 redirect_from:  # part of site.sitemap_exclude
@@ -18,8 +17,12 @@ redirect_from:  # part of site.sitemap_exclude
 
 dynamic_title: true
 ---
-
-<div class="lead">
-  <p>Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. </p>
+<div class="text-center">
+  <img src="https://img.icons8.com/dotty/80/000000/broken-robot.png">
+  <br />
+  <p style="font-size: 2em; font-weight: bold;">404: PAGE NOT FOUND</kbd>
+</div>
+<div class="lead text-center text-muted">
+  <p>Sorry, we might have misplaced that URL or it's pointing to something that doesn't exist. </p>
   <p><a href="{{ site.baseurl }}/">Head back Home</a> to try finding it again, or search for it on the <a href="{{ site.baseurl }}/tabs/archives">Archives page</a>.</p>
 </div>
