@@ -2,6 +2,7 @@
 layout: post
 title: 'List of open source internships'
 comments: true
+tags: [open-source]
 ---
 
 There are many open-source internships available in various fields. This list summarizes them (Courtesy of [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs/blob/master/README.md)):
