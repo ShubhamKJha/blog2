@@ -3,6 +3,7 @@ layout: post
 title: 'Community Bonding Period'
 comments: true
 tags: [gsoc, sympy]
+categories: [open-source]
 ---
 Community bonding period has concluded. Due to my exams and travelling, I was not able to devote much of my time over this. But I managed to review PR [#16666](https://github.com/sympy/sympy/pull/16666) and helped it get merged. With this PR, SymPy comes one step closer to unifying both the Assumption systems. Also, with this I realized how difficult reviewing can be 😅.
 

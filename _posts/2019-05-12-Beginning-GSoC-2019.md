@@ -3,6 +3,7 @@ layout: post
 title: 'Beginning GSoC 2019: with SymPy'
 comments: true
 tags: [gsoc, sympy]
+categories: [open-source]
 ---
 <a href="https://summerofcode.withgoogle.com/">
   <img src="/assets/images/gsoc.png" style="width:30%;height:30%;float:left;" />

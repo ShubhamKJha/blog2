@@ -3,6 +3,7 @@ layout: post
 title: 'GSoC 2019: Week 12 (The Final Week)'
 comments: true
 tags: [gsoc, sympy]
+categories: [open-source]
 ---
 The last week of coding period is officially over. A summary of the work done during this week is:
 

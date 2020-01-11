@@ -3,6 +3,7 @@ layout: post
 title: List of open source internships
 comments: true
 tags: [open-source]
+categories: [open-source]
 seo:
   date_modified: 2020-01-11 17:10:03 +0530
 ---
