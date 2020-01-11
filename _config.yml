@@ -13,11 +13,11 @@ title: Shubham Kumar Jha
 description: 'My short place on internet.'
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://www.example.com'
+url: 'https://www.shubhamjha.com'
 
 author: Shubham Kumar Jha                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # Support network resources.
+avatar: /assets/img/favicons/profile-pic.png   # Support network resources.
 
 github:
   username: ShubhamKJha           # change to your github username
